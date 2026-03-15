@@ -1,0 +1,11 @@
+ .btn{
+    background-color: blue;
+    height: 25px;
+    color: white;
+    border-radius: 5px;
+ }
+
+ .head{
+    border: 5px;
+    font-size: 50px;
+ }
